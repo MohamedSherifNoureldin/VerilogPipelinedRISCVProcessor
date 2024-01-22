@@ -1,4 +1,6 @@
-# Pipelined-RISCV-CPU
+# Verilog Pipelined RISC-V Processor
+![Processor Architecture](ProcessorArchitecture.png)
+
 A verilog implementation of a five-stage pipelined processor for the RISC-V architecture, with support for all 40 instructions of the RV32I instruction set, as well as an additional 8 for the RV32M instruction set. 
 This project also supports implementation on a Nexys A7 board, with push buttons for incrementing the program counter, as well as seven-segment displays and LEDs for program counter value and significant wires.
 
